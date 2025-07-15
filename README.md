@@ -1,6 +1,6 @@
 ## Howdy! I'm Cade. 🌊
 
-- 🐦‍⬛ he/they • gay • crow • adult
-- 🐍 intermediate developer in javascript and python
+- 🐦‍⬛ he/they • gay • 20's
+- 🐍 intermediate developer in javascript
 - ☕ plant-lover and coffeeholic
 - 🦦 passionate in community management
